@@ -1,0 +1,19 @@
+.loading-js {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 345645645;
+    width: 100%;
+    height: 100vh;
+    background-color: #000000ad;
+    display: flex;
+}
+
+.spinner-border {
+    margin: auto;
+    color: white;
+}
+
+.swal2-title {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

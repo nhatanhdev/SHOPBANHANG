@@ -1,0 +1,7 @@
+
+<div class="loading-js">
+    <div class="spinner-border" role="status">
+        <span class="sr-only"></span>
+    </div>
+</div>
+
